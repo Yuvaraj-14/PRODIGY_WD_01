@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-Internship at ProdigyInfoTech
+Task-01 of Internship at ProdigyInfoTech
